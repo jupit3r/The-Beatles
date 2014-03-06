@@ -1,0 +1,42 @@
+".container": {
+	backgroundColor:"white",
+}
+
+"Label": {
+	color: "#000",
+	font: {fontFamily: "avenir", fontSize: 15},
+}
+
+"#background": {
+	opacity:".25",
+}
+
+"#info": {
+	textAlign: "center",
+	backgroundColor: "rgba(229, 229, 229, .25)",
+	borderRadius: "5",
+	height: "auto",
+}
+
+"#track": {
+	backgroundColor: "rgba(229, 229, 229, 0)",
+	borderRadius: "5",
+	height: "auto",
+}
+
+"#album": {
+	color: "white",
+	font: {fontSize: 20},
+}
+
+"#bands": {
+	color: "white",
+	font: {fontSize: 20},
+	textAlign: "center",
+}
+
+
+
+
+
+//     lvw/.     //

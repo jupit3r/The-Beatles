@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=The Beatles
+iosLaunchConfigurationAttributes/appid=thebeatles.kolt.ca
+iosLaunchConfigurationAttributes/certificate=Dani Winters (4X99935363)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.0.3
+iosLaunchConfigurationAttributes/uuid=FA9F8C1E-2347-46A5-B992-D5C5206FD2F7
+provisioning_profiles/development/FA9F8C1E-2347-46A5-B992-D5C5206FD2F7/appid=*
+provisioning_profiles/development/FA9F8C1E-2347-46A5-B992-D5C5206FD2F7/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/FA9F8C1E-2347-46A5-B992-D5C5206FD2F7/uuid=FA9F8C1E-2347-46A5-B992-D5C5206FD2F7

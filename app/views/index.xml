@@ -1,0 +1,38 @@
+<Alloy>
+	<Window class="container">
+		
+<!------- BACKGROUND IMAGE ------->
+		<ImageView id="background" image="Intro.jpg"></ImageView>
+		
+<!------- ALBUM SCROLLER ------->
+		<ImageView id="main" bottom="50" height="250"></ImageView>
+		<ScrollView id="thumbsScroll" top="20" left="0" height="105" backgroundColor="rbga(176, 196, 222, .25)"></ScrollView>
+		
+<!------- BAND SCROLLER ------->
+		<ImageView id="band" bottom="20" height="250"></ImageView>
+		<ScrollView id="thumbsScroll2" bottom=".5" left="0" height="105" backgroundColor="rbga(176, 196, 222, .25)"></ScrollView>
+		
+<!------- BAND/ALBUM SLIDER ------->
+		<View id="details" width="320" top="20" right="320" backgroundColor="rbga(119, 136, 153, .90)">
+			<ScrollView>
+				<ImageView id="main" image="1.png" top="5" height="250"></ImageView>
+				<Label id="album" top="235" height="90" text="Album" textAlign="center"></Label>
+				<Label id="bands" top="235" height="90" text="Band"></Label>
+				<View id="motion">
+					<Label id="info" top="305" width="303" text="Info"></Label>
+				</View>
+				<View id="motion">
+					<Label id="track" top="305" width="303" text="Track"></Label>
+				</View>
+				
+			</ScrollView>
+		</View>
+
+	</Window>
+</Alloy>
+
+
+
+
+
+<!--     lvw/.     -->
